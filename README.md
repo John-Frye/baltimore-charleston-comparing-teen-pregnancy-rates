@@ -5,16 +5,20 @@ The teenage birth rate is the fraction of women who gave birth to a child while 
 Is lower household income positively correlated to teenage birth rates in both Baltimore, MD and Charleston, SC?
 ## Data Sources
 I derived all of my data from Opportunity Atlas. The data is categorized as follows:
-- Average Household Income by Population Tract in Baltimore
-- Average Household Income by Population Tract in Charleston
-- Teenage Birth Rates by Population Tract in Baltimore
-- Teenage Birth Rates by Population Tract in Charleston
+- [Average Household Income by Population Tract in Baltimore](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/Baltimore_Income_Data.xlsx)
+- [Average Household Income by Population Tract in Charleston](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/Charleston_Income_Data.xlsx)
+- [Teenage Birth Rates by Population Tract in Baltimore](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/baltimore_teen_pregnancy.xls)
+- [Teenage Birth Rates by Population Tract in Charleston](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/charleston_teen_pregnancy.xltx)
 ## Data Analysis
 Using the aforementioned metrics, I compared household income data in each of the cities' documented population tracts with the same tracts' teenage birth rate. For the teenage birth rate, I used the average rate for all income levels within a tract. For the income data, I used the average household income within a tract. 
 
 The following chart models the relationship between household income and teenage birth rates in Charleston, SC:
 
+![alt_text](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/Income_Birth_Correlation_Charleston.png)
+
 This chart models the relationship between household income and teenage birth rates in Baltimore, MD:
+
+![alt_text](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/eb208fa0d8972fdad16272bd8874958a39c09db4/Income_Birth_Correlation_Baltimore.png)
 
 Both charts indicate that, on average, teenage birth rates are positively correlated to lower household incomes. The fact that household income is calculated based on parental income also indicates that girls in poorer households are more likely to become pregnant. The data does not, however, provide conclusive insight into whether or not teenage pregnancies reduce a woman's income. 
 
