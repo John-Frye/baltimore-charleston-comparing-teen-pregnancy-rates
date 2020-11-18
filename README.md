@@ -47,7 +47,7 @@ The following issues could have impacted the data collection for this analysis:
 - Many tracts in both Baltimore and Charleston lacked sufficient data on teenage birthrates, meaning that some tracts were not included in the dataset
 - Charleston was subdivided into fewer population tracts than Baltimore, so there was less information on Charleston's teenage birthrates. This also made it difficult to graphically compare Baltimore and Charleston's datasets.
 ## Step-by-Step Instructions
-Step-by-step instructions for how I manipulated the excel data [can be accessed here.](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/Instructions_Baltimore_Charleston_Teen_Pregnancy_Rate_Comparison.xlsx) 
+Step-by-step instructions for how I manipulated the excel data [can be accessed here.](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/Baltimore_Data_Analysis_Proj_4.xlsx) 
 
 Step-by-step instructions for my Python analysis [can be accessed here.](https://colab.research.google.com/drive/1nwqTRTdjc9mr1Ek-vtUdSv8DJLHZzsvV#scrollTo=cHaCMo0viK69)
 
