@@ -16,11 +16,11 @@ I undertook a similar analysis for Python. I filtered the datasets to include on
 
 The following chart is from my original mini-project #1. The graph's x axis lists the population tracts in Charleston, SC from highest to lowest average household income. The blue line models this arrangement of tracts by household income, while the red line graphs the population tracts' corresponding teenage birth rate. 
 
-![alt_text](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/Income_Birth_Correlation_Charleston.png)
+![alt_text](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/ExcelBaltimoreGraph.png)
 
 This chart, also taken from my original mini-project, models the association between household income and teenage birth rates in Baltimore, MD:
 
-![alt_text](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/eb208fa0d8972fdad16272bd8874958a39c09db4/Income_Birth_Correlation_Baltimore.png)
+![alt_text](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/ExcelCharlestonGraph.png)
 
 Both charts indicate that, on average, population tracts with lower household incomes have higher teenage birth rates. The fact that household income is calculated based on parental income also indicates that girls in poorer households are more likely to become pregnant. The data does not, however, provide conclusive insight into whether or not teenage pregnancies reduce a woman's income. 
 
