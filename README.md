@@ -14,7 +14,7 @@ Using the aforementioned metrics, I compared household income data in each of th
 
 I undertook a similar analysis for Python. I filtered the datasets to include only tracts within each city, merged the datsets, and then created plotly visuals for each.
 
-The following chart is an updated version of the chart in my original mini-project #1. The graph's x axis lists the population tracts in Charleston, SC from highest to lowest average household income. The blue line models this arrangement of tracts by household income, while the red line graphs the population tracts' corresponding teenage birth rate. 
+The following chart is an updated version of the chart in my original mini-project #1. The graph's x axis lists the population tracts in Charleston, SC from highest to lowest average household income. The red line models this arrangement of tracts by household income, while the green line graphs the population tracts' corresponding teenage birth rate. 
 
 ![alt_text](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/ExcelBaltimoreGraph.png)
 
