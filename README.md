@@ -24,7 +24,7 @@ This chart, also taken from my original mini-project, models the association bet
 
 Both charts indicate that, on average, population tracts with lower household incomes have higher teenage birth rates. The fact that household income is calculated based on parental income also indicates that girls in poorer households are more likely to become pregnant. The data does not, however, provide conclusive insight into whether or not teenage pregnancies reduce a woman's income. 
 
-Teenage pregnancy has a stronger negative correlation (-0.78) with household income than Baltimore (-0.66). This indicates that, as household incomes rise in Charleston, teenage pregnancy rates decrease to a greater extent than in Baltimore. This contradicts my findings from mini-project #2, as I will discuss in my Error Analysis section. 
+Teenage pregnancy has a stronger negative correlation (-0.78) with household income in Charleston than in Baltimore (-0.66). This indicates that, as household incomes rise in Charleston, teenage pregnancy rates decrease to a greater extent than in Baltimore. This contradicts my findings from mini-project #2, as I will discuss in my Error Analysis section. 
 
 My updated graphs for mini-project #4 exhibit similar trends in the data. The following graph, made in plotly express, illustrates teenage birth rates by the household incomes of each tract in Charleston, SC. 
 
