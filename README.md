@@ -47,3 +47,5 @@ The following issues could have impacted the data collection for this analysis:
 ## Step-by-Step Instructions
 Step-by-step instructions for how I manipulated the excel data [can be accessed here.](https://github.com/John-Frye/baltimore-charleston-comparing-teen-pregnancy-rates/blob/master/Instructions_Baltimore_Charleston_Teen_Pregnancy_Rate_Comparison.xlsx) 
 
+Step-by-step instructions for my Python analysis [can be accessed here.](https://colab.research.google.com/drive/1nwqTRTdjc9mr1Ek-vtUdSv8DJLHZzsvV#scrollTo=cHaCMo0viK69)
+
